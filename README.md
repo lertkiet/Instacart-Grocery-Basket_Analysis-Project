@@ -33,7 +33,7 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 
 ## Tools
 1. Microsoft Excel
-The original datasets are in .CSV format from Excel. We import them into Python for analysis, then export the cleaned data back to Excel before sending it to clients.
+- The original datasets are in .CSV format from Excel. We import them into Python for analysis, then export the cleaned data back to Excel before sending it to clients.
 2. Python
 It is mainly used in this project following with the supporting libraries.
 - Pandas: Data manipulation
@@ -41,3 +41,10 @@ It is mainly used in this project following with the supporting libraries.
 - Seaborn: Statistical visualization
 - Matplotlib: Data visualization
 - SciPy: Scientific computing
+
+## Folders
+1. Project Management: This folder contains documentation related to the project.
+2. Data: This folder contains any datasets used in the project. Due to memory limitations, it is not included in GitHub.
+3. Scripts: This folder contains Python scripts and Jupyter notebooks used in the project.
+4. Visualizations: This folder contains all the visualizations produced throughout the project analysis.
+5. Sent to Client: This folder contains all the final deliverables sent to the client. It includes the latest versions of the results, which are up to date.
