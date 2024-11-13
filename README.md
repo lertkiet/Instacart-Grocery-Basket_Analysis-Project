@@ -30,3 +30,14 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 3. Orders_products_prior
 4. Products
 5. Departments
+
+## Tools
+1. Microsoft Excel
+The original datasets are in .CSV format from Excel. We import them into Python for analysis, then export the cleaned data back to Excel before sending it to clients.
+2. Python
+It is mainly used in this project following with the supporting libraries.
+- Pandas: Data manipulation
+- NumPy: Numerical operations
+- Seaborn: Statistical visualization
+- Matplotlib: Data visualization
+- SciPy: Scientific computing
